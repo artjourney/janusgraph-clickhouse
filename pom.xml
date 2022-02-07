@@ -58,6 +58,7 @@
             <groupId>org.janusgraph</groupId>
             <artifactId>janusgraph-core</artifactId>
             <version>${janusgraph.version}</version>
+            <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>com.zaxxer</groupId>
